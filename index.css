@@ -1,0 +1,35 @@
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+img  {
+  display: block;
+  margin-top:200px;
+  margin-left:500px;
+
+}
+h3 {
+  float: left;
+}
+.back
+{
+  float: right;
+position: inherit;
+  top: 1%;
+}
+  body  {
+    background-image: url("snow.jpg");
+    background-size: cover;
+  }
+
+#quote{
+position:relative;
+  top: 200%;
+}
